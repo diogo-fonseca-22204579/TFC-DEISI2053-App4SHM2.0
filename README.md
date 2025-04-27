@@ -1,7 +1,7 @@
 # Guia de instalação:
 
 dependências:
-java 17 , flutter, mysql
+java 17 ou superior , flutter, mysql
 
 ## Instalaçao do server:
 
@@ -32,4 +32,6 @@ python manage.py createsuperuser
 ## Instalacao Mobile:
 
 fazer pub get
+
+correr aplicaçao
 
